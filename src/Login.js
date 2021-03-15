@@ -4,6 +4,7 @@ import React from "react"
     return (
         <form className="login-form">
           <div className="form-group">
+          <h1>SIGN UP</h1>
           <div class="row">
     <div className="col">
       <input type="text" class="form-control" placeholder="First name"/>
